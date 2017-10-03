@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'yajl-ruby', '1.3.0'
   s.add_runtime_dependency 'escape_utils', '1.1.0'
   s.add_runtime_dependency 'pry', '0.10.1'
-  s.add_development_dependency 'rake'
+  s.add_development_dependency 'rake', '10.5.0'
   s.add_development_dependency 'rubygems-tasks'
   s.add_development_dependency 'mocha'
   s.add_development_dependency 'yard'
